@@ -15,7 +15,8 @@ to delete the fork on my account
 ``` 
 ssh cs15lwi23adt@ieng6.ucsd.edu
 ``` 
-to log in 
+to log into my ssh account
+
 5.![Clone fork repository](https://user-images.githubusercontent.com/122495762/221438075-7e6a60ab-bb93-47f1-9a04-d4e03ddb6840.jpg)
 
 6. ![Failed test](https://user-images.githubusercontent.com/122495762/221438229-4f7b15c8-a14a-40f8-8c19-ce201b64d45b.jpg)
@@ -29,16 +30,18 @@ Then I press up arrow 6 times to go the beginning of the line that needs fixing
  
 ![screenshot 1677446956](https://user-images.githubusercontent.com/122495762/221438402-86c92efb-5e95-4bc9-9959-34e7fa7b728b.jpg)
  
-Then press the next arrrow 12 times 
+Then press the <next> arrrow 12 times 
 
 ![screenshot 1677447084](https://user-images.githubusercontent.com/122495762/221438532-0d673558-77cb-4926-9018-b98c153d8d1f.jpg)
 Then press <i> to enter insert mode and and press <delete>
 
 ![screenshot 1677447155](https://user-images.githubusercontent.com/122495762/221438590-383f2732-95a0-48ea-b48c-7e3d163cd9c9.jpg)
-then enter in <2>
+ 
+then enter in number <2>
 
 ![screenshot 1677447191](https://user-images.githubusercontent.com/122495762/221438624-822369f4-c10e-44f6-8cd1-c7dd542a1dcc.jpg)
- The <Esp> to escape insert mode, then ":wq" to save the change and exit vim 
+ 
+ Then I press <Esp> to escape insert mode, then ":wq" to save the change and exit vim 
  
  ![screenshot 1677447221](https://user-images.githubusercontent.com/122495762/221438701-1fe3ea58-e5d9-46db-ac0e-3f494a753cff.jpg)
  
