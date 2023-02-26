@@ -17,7 +17,11 @@ ssh cs15lwi23adt@ieng6.ucsd.edu
 ``` 
 to log into my ssh account
 
-5. I enter ```git clone [fork link](git@github.com:ucsd-cse15l-w23/lab7.git)```
+5. I enter 
+```
+git clone 
+[fork link](git@github.com:ucsd-cse15l-w23/lab7.git)
+```
 
 ![Clone fork repository](https://user-images.githubusercontent.com/122495762/221438075-7e6a60ab-bb93-47f1-9a04-d4e03ddb6840.jpg)
 
