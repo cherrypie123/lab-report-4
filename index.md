@@ -60,7 +60,8 @@ then enter in number ```<2>```
  ![screenshot 1677447221](https://user-images.githubusercontent.com/122495762/221438701-1fe3ea58-e5d9-46db-ac0e-3f494a753cff.jpg)
  
 8.
-  I entered ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java```
+
+I entered ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java```
 and 
 
 ```
@@ -69,7 +70,8 @@ TestListExamples
 ```
  ![screenshot 1677264410](https://user-images.githubusercontent.com/122495762/221438777-22f96fca-8c64-4df1-ac3a-2f0b36fe22e2.jpg)
  
-9.I enter 
+9. 
+I enter 
  ``` 
  git add List Examples.java
  git commit -m "Updated" 
