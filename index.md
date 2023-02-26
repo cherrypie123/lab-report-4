@@ -43,6 +43,7 @@ Then I press ```<up>``` arrow 6 times to go the beginning of the line that needs
 Then press the ```<next>``` arrrow 12 times 
 
 ![screenshot 1677447084](https://user-images.githubusercontent.com/122495762/221438532-0d673558-77cb-4926-9018-b98c153d8d1f.jpg)
+
 Then press ```<i>``` to enter insert mode and and press <delete>
 
 ![screenshot 1677447155](https://user-images.githubusercontent.com/122495762/221438590-383f2732-95a0-48ea-b48c-7e3d163cd9c9.jpg)
@@ -55,7 +56,22 @@ then enter in number ```<2>```
  
  ![screenshot 1677447221](https://user-images.githubusercontent.com/122495762/221438701-1fe3ea58-e5d9-46db-ac0e-3f494a753cff.jpg)
  
-8.![screenshot 1677264410](https://user-images.githubusercontent.com/122495762/221438777-22f96fca-8c64-4df1-ac3a-2f0b36fe22e2.jpg)
+8.
+  I entered ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java```
+and 
+
+```
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore 
+TestListExamples
+```
+ ![screenshot 1677264410](https://user-images.githubusercontent.com/122495762/221438777-22f96fca-8c64-4df1-ac3a-2f0b36fe22e2.jpg)
  
-9. ![screenshot 1677264746](https://user-images.githubusercontent.com/122495762/221438831-872603b4-4415-4e2c-aabd-dd50d0570146.jpg)
+9.I enter 
+ ``` 
+ git add List Examples.java
+ git commit -m "Updated" 
+ git push origin main
+ ```
+ 
+ ![screenshot 1677264746](https://user-images.githubusercontent.com/122495762/221438831-872603b4-4415-4e2c-aabd-dd50d0570146.jpg)
 
