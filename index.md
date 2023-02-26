@@ -1,4 +1,6 @@
-1. I entered in 
+1. 
+
+I entered in 
 ``` 
 rm -rf lab7
 ```
@@ -6,25 +8,36 @@ to delete the fork on my account
 
 ![Delete fork of respository](https://user-images.githubusercontent.com/122495762/221437976-ae415ac7-38ee-44a4-848e-e3e8ffeca1e5.jpg)
 
-2. I clicked on the button fork on lab7 
+2. 
+
+I clicked on the button fork on lab7 
 
 ![screenshot 1677447534](https://user-images.githubusercontent.com/122495762/221439005-ef396ba0-e8f6-40ce-aa1d-70d079de8c0d.jpg)
 
-3. I took me around 1 minute and 35 seconds to finish the challenges.
-4. I enter in 
+3. 
+
+I took me around 1 minute and 35 seconds to finish the challenges.
+
+4. 
+
+I enter in 
 ``` 
 ssh cs15lwi23adt@ieng6.ucsd.edu
 ``` 
 to log into my ssh account
 
-5. I enter 
+5. 
+
+I enter 
 ```
 git clone git@github.com:ucsd-cse15l-w23/lab7.git
 ```
 
 ![Clone fork repository](https://user-images.githubusercontent.com/122495762/221438075-7e6a60ab-bb93-47f1-9a04-d4e03ddb6840.jpg)
 
-6. I entered ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java```
+6. 
+
+I entered ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java```
 and 
 
 ```
@@ -34,7 +47,10 @@ TestListExamples
 
 ![Failed test](https://user-images.githubusercontent.com/122495762/221438229-4f7b15c8-a14a-40f8-8c19-ce201b64d45b.jpg)
 
-7. After vim ListExamples.java
+7. 
+
+After I enter in ```vim ListExamples.java```
+
 I press ```<G>``` to go move cursor to the end of the document 
  
 ![screenshot 1677446858](https://user-images.githubusercontent.com/122495762/221438366-be90aa27-0097-44b1-8e38-ed99ebe09563.jpg)
