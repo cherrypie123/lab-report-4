@@ -3,8 +3,10 @@
 rm -rf lab7
 ```
 to delete the fork on my account
+
 ![Delete fork of respository](https://user-images.githubusercontent.com/122495762/221437976-ae415ac7-38ee-44a4-848e-e3e8ffeca1e5.jpg)
 2. I clicked on the button fork on lab7 
+
 ![screenshot 1677447534](https://user-images.githubusercontent.com/122495762/221439005-ef396ba0-e8f6-40ce-aa1d-70d079de8c0d.jpg)
 
 3. I took me around 1 minute and 35 seconds to finish the challenges.
