@@ -47,7 +47,7 @@ Then press the ```<next>``` arrrow 12 times
 
 ![screenshot 1677447084](https://user-images.githubusercontent.com/122495762/221438532-0d673558-77cb-4926-9018-b98c153d8d1f.jpg)
 
-Then press ```<i>``` to enter insert mode and and press <delete>
+Then press ```<i>``` to enter insert mode and and press ```<delete>```
 
 ![screenshot 1677447155](https://user-images.githubusercontent.com/122495762/221438590-383f2732-95a0-48ea-b48c-7e3d163cd9c9.jpg)
  
